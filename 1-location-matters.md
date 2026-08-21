@@ -7,7 +7,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 <img src="images/01-location-logo.jpg" style="float:right;width:250px;height:250px;" alt="Decorative"> 
 
-# Location & Setting Really Matter for High Quality Audio Recordings! 
+# Location & What is in the Room You're Recoding in Really Matters! 
 
 Step 1
 {: .label .label-step}
