@@ -15,10 +15,6 @@ High quality audio recording makes a huge difference in the quality and usabilit
 
 Recording with a microphone like the DJI Mic Mini, instead of your phone’s built-in microphone, keeps the speaker’s distance from the microphone constant for every letter, so all of your audio files come out at a similar volume with far less room echo. This matters most when you are recording with Elders and language keepers, where you may only get one session.
 
-By the end of this workshop you will have completed one or both of the following:
-1. Record one audio file per letter of the alphabet, named and trimmed them, so that they are ready to use in a soundboard, or any other language learning game.
-2. Record a short interview with someone in the workshop, using the best practices outlined in the workshop.
-
 ## Learning objectives
 
 At the end of this workshop, you will be able to:
@@ -32,5 +28,6 @@ At the end of this workshop, you will be able to:
 8. **Asset Export & File Management**: Export, transfer, and organize recorded .m4a audio assets across cloud storage platforms or devices (e.g., AirDrop, iCloud, Google Drive).
 9. **Audio Troubleshooting & Problem Solving**: Be aware of how to resolve common technical recording issues, including mic selection errors, clipping distortion, low gain, and ambient background noise.
 10. **Ethical Audio Protocols & Language Documentation**: Describe the permissions and protocols involved in recording with Elders and language keepers, including asking permission, confirming who the audio can be shared with, verifying spellings and pronunciations, and archiving untrimmed originals.
+11. **Record an Interview**: Record a short interview with someone in the workshop, using the best practices outlined in the workshop.
  
 [NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }
