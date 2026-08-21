@@ -27,7 +27,11 @@ At the end of this workshop, you will be able to:
 7. **Audio Trimming & Editing**: Trim each recording in Voice Memos so only a sliver of silence remains before and after the letter, and explain how that trimming makes a soundboard feel responsive to the touch.
 8. **Asset Export & File Management**: Export, transfer, and organize recorded .m4a audio assets across cloud storage platforms or devices (e.g., AirDrop, iCloud, Google Drive).
 9. **Audio Troubleshooting & Problem Solving**: Be aware of how to resolve common technical recording issues, including mic selection errors, clipping distortion, low gain, and ambient background noise.
-10. **Ethical Audio Protocols & Language Documentation**: Describe the permissions and protocols involved in recording with Elders and language keepers, including asking permission, confirming who the audio can be shared with, verifying spellings and pronunciations, and archiving untrimmed originals.
-11. **Record an Interview**: Record a short interview with someone in the workshop, using the best practices outlined in the workshop.
+10. **Ethical Audio Recording Protocols**: Describe the protocols involved in recording with Elders and language keepers, including:
+    - Asking permission
+    - Confirming who the audio can be shared with
+    - Verifying spellings and pronunciations
+    - Archiving untrimmed originals
+12. **Record an Interview**: Record a short interview with someone in the workshop, using the best practices outlined in the workshop.
  
 [NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }
