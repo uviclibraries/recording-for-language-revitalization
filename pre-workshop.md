@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UPDATE-Pre-Workshop Activities
+title: Pre-Workshop Activities
 nav_order: 2
 ---
 ## Pre-Workshop Videos & Activities
@@ -12,5 +12,8 @@ This workshop is primarily hands-on practice with audio recording and editing on
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cPNXvg-Bihk" title="How To Connect DJI Mic Mini 2 To DJI Mimo App" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 - [How To Position The DJI Mic Mini Microphone!](https://www.youtube.com/watch?v=-fqK5MkNXxA){:target="_blank"} (1 min)<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fqK5MkNXxA" title="How To Position The DJI Mic Mini Microphone" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+- [MORE VIDEOS](https://www.youtube.com/watch?v=-fqK5MkNXxA){:target="_blank"} (1 min)<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-fqK5MkNXxA" title="How To Position The DJI Mic Mini Microphone" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [NEXT STEP: Introduction to Hands-On Activities](activities-intro.html){: .btn .btn-blue }
