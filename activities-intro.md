@@ -6,7 +6,7 @@ nav_order: 3
 # Hands-On Activities Introduction
 
 - Please review the following [Introductory Slides](#){:target="_blank"} **COMING SOON**<br>
--OR-<br>
+-OR-
 - The [Workshop Introduction Video](#){:target="_blank"} **COMING SOON**
 
 - Resize Your Laptop Screen for Workshop Handouts (2 min)<br>
