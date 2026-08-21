@@ -5,7 +5,7 @@ nav_order: 3
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
-<img src="images/tinkercad-keychain-01.png" style="float:right;width:200px;height:200px;" alt="Decorative"> 
+<img src="images/01-location-logo.jpg" style="float:right;width:250px;height:250px;" alt="Decorative"> 
 
 # Location & Setting Really Matter for High Quality Audio Recordings! 
 
