@@ -8,9 +8,9 @@ This workshop is primarily hands-on practice with audio recording and editing on
 
 - [Connecting the DJI Mic Mini to Your Phone](https://www.youtube.com/watch?v=JMC6-lhJxhY){:target="_blank"} (1 min)<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JMC6-lhJxhY" title="Connecting the DJI Mic Mini to Your Phone" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-- [How To Connect DJI Mic Mini 2 To DJI Mimo App](https://www.youtube.com/watch?v=rJbf-2XXsuY){:target="_blank"} (2 min)<br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rJbf-2XXsuY" title="How To Connect DJI Mic Mini 2 To DJI Mimo App" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-- OPTIONAL - [Another here?](https://www.youtube.com/watch?v=rJbf-2XXsuY){:target="_blank"} (5 min)<br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lYzhgMZii3o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+- [How To Connect DJI Mic Mini 2 To DJI Mimo App](https://www.youtube.com/watch?v=cPNXvg-Bihk){:target="_blank"} (2 min)<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cPNXvg-Bihk" title="How To Connect DJI Mic Mini 2 To DJI Mimo App" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+- [How To Position The DJI Mic Mini Microphone!](https://www.youtube.com/watch?v=-fqK5MkNXxA){:target="_blank"} (1 min)<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqK5MkNXxA" title="How To Position The DJI Mic Mini Microphone" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [NEXT STEP: Introduction to Hands-On Activities](activities-intro.html){: .btn .btn-blue }
