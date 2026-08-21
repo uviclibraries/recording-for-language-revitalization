@@ -17,6 +17,6 @@ This workshop is primarily hands-on practice with audio recording and editing on
 - [How to Trim Audio or Voice Memos on your iPhone](https://www.youtube.com/watch?v=Dv2ifjvSYvA){:target="_blank"} (1 min)<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Dv2ifjvSYvA" title="How to Trim Audio or Voice Memos on your iPhone" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 - [How to Avoid Room Echo](https://www.youtube.com/watch?v=sq2yoVwpRs8){:target="_blank"} (1 min)<br>
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=hrxtDjtKH4c" title="How to Avoid Room Echo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sq2yoVwpRs8" title="How to Avoid Room Echo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [NEXT STEP: Introduction to Hands-On Activities](activities-intro.html){: .btn .btn-blue }
