@@ -7,28 +7,41 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 <img src="images/01-location-logo.jpg" style="float:right;width:250px;height:250px;" alt="Decorative"> 
 
-# Location & What is in the Room You're Recoding in Really Matters! 
+# Choose a Great Recording Spot & Placement for Your Microphone 
+
+Good audio recordings start long before you press the record button. The room you choose and where you clip the microphone make a bigger difference to sound quality than almost anything else, and fortunately both are quick and easy to get right. This activity walks you through picking a quiet, "soft" recording space and attaching a DJI Mic Mini to the person you are recording so that the alphabet, word, and phrase recordings you make for your apps sound clear and consistent.
+
+## Part A: Selecting a Suitable Recording Location
 
 Step 1
 {: .label .label-step}
-If you haven’t already, please go to [the TinkerCad website and create an account](http://tinkercad.com){:target="_blank"} for yourself. If you find yourself in a tutorial, click on the Tinkercad logo in the top left of the screen to exit to the home page.
-<img src="images/tinkercad-keychain-02b.png" style="float:right;width:200px" alt="drop down menu with basic shapes, text and numbers."> 
+- Start by listening. Stand in the room you are considering, close your eyes, and stay quiet for 30 seconds. Notice every sound: fans, fridges, ventilation, traffic, hallway chatter, and hum from lights or computers. Anything you can hear now, your microphone will hear even more clearly.
+- If you can, turn off or unplug the noisy things you have control over: ceiling fans, space heaters, air purifiers, desk fans, and noisy laptops. Close windows and doors.
+- Ask anyone nearby to keep the volume down for the next while, and put a "Recording in progress, please knock quietly" note on the door if you have one handy.
+<img src="images/CHANGE.png" style="float:right;width:200px" alt="drop down menu with basic shapes, text and numbers."> 
 {: .step}
 
 Step 2
 {: .label .label-step}
-Click **Create new design**. If the TinkerCad tutorial pane is up on the right-hand side, you will need to get out of it before proceeding. Click on the TinkerCad logo at the top to bring you back to your main page. From there you should see the “Create new design” button. 
+- Look at the surfaces in the room. Hard, flat surfaces like bare walls, windows, tile floors, and long tables bounce sound back at the microphone and create an echoey, "bathroom" sound. Soft surfaces absorb sound and make voices sound warm and close.
+- Ideal rooms have carpet or rugs, curtains, upholstered furniture, bookshelves full of books, cushions, coats on hooks, or fabric wall hangings. A small carpeted office, a living room with a couch and curtains, or even a walk-in closet full of clothes will sound far better than a large empty meeting room with a whiteboard.
+- Smaller rooms are usually better than larger ones, as long as they are not so small that you feel cramped. High ceilings and big empty spaces tend to echo. 
 {: .step}
 
 Step 3
 {: .label .label-step}
-On the right side of the TinkerCad open a drop-down menu by clicking on **Basic Shapes**, and then select the **Design Starters** option, then the **"A" Letter Icon**. This will display a list of 3D letters that you can scroll down through to find the whole alphabet, plus numbers 1 through 9. <img src="images/tinkercad-keychain-03b.png" style="float:right;width:400px" alt="visual example"> 
+- Do the clap test. Stand where the speaker will sit, clap your hands once loudly, and listen. If you hear a sharp ring or a fluttering echo that lasts more than a moment, the room is too "live." If the clap sounds dull and dies away almost instantly, you have found a good spot.
+- If the room is echoey but you have no better option, improvise. Hang a blanket or two over chairs behind and beside the speaker, put a rug on the floor, throw some coats over the table, or move everyone into a corner near a bookshelf. Even a couple of pillows placed behind the laptop can help quite a bit. 
 {: .step}
 
 Step 4
 {: .label .label-step}
-Drag and drop all the individual letters from a name or word you want to use onto the workplane. 
+- Set up the speaker's chair and your recording device. Have the speaker sit facing into the room (toward soft surfaces), not facing a window or a bare wall. Keep them about a metre away from any wall so their voice does not bounce straight back into the mic.
+- Place your laptop or phone within easy reach but keep it a little distance from the speaker, since the DJI receiver will be plugged into it and you want the device's own fan noise well away from the microphone.
+Turn off notifications on the recording device so a chime does not sneak into a take. On a laptop, closing email and chat apps for the session is the simplest way to do this. 
 {: .step}
+
+## Part B: Placing the DJI Mic Mini
 
 Step 5
 {: .label .label-step}
