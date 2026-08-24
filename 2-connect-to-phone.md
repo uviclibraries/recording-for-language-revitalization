@@ -56,7 +56,7 @@ Step 4
 - With the receiver plugged in, open the **DJI Mimo** app on your iPhone. The first time you connect, allow any permission prompts and let the app finish a firmware update if one is offered.
 - Once the receiver is connected, a pop-up will appear saying "DJI Mic Mini detected." Tap **Go to Settings** to open the device page.
 - On the device page, you'll see the connected transmitter, its battery level, and a live audio level meter.
-- You will only use Mimo to **check levels**. NOTE: The actual recording happens in Voice Memos in Step 6.
+- You will only use Mimo to **check levels**. NOTE: The actual recording happens in the next activity.
 {: .step}
 
-[NEXT STEP: XXXX](#){: .btn .btn-blue }
+[NEXT STEP: Record Short Audio Clips](2-audo-record.html){: .btn .btn-blue }
