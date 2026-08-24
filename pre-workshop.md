@@ -6,7 +6,7 @@ nav_order: 2
 ## Pre-Workshop Videos & Activities
 This workshop is primarily hands-on practice with audio recording and editing on your smartphone for language revitalization tasks using DJI Mic Mini wireless microphones. To participate fully please do the following **before the workshop**:
 
-- [I Didn’t Realize My Audio Was This Bad… (**Watch 1st minute only**](https://www.youtube.com/watch?v=SrUpKbhZtFk){:target="_blank"} (1 min)<br>
+- [I Didn’t Realize My Audio Was This Bad… (**Watch 1st minute only**)](https://www.youtube.com/watch?v=SrUpKbhZtFk){:target="_blank"} (1 min)<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SrUpKbhZtFk" title="I didn't realize my audio was this bad" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 - [Connecting the DJI Mic Mini to Your Phone](https://www.youtube.com/watch?v=JMC6-lhJxhY){:target="_blank"} (1 min)<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JMC6-lhJxhY" title="Connecting the DJI Mic Mini to Your Phone" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
