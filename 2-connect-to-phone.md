@@ -7,7 +7,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 <img src="images/01-location-logo.jpg" style="float:right;width:250px;height:250px;" alt="Decorative"> 
 
-# Connect the DJI Mic Mini to your phone
+# Connect the DJI Mic Mini to Your Phone
 
 Step 1
 {: .label .label-step}
