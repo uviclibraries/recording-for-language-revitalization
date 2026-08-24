@@ -51,7 +51,7 @@ Step 3
 Step 4
 {: .label .label-step}
 
-<img src="images/2-audio-04.PNG" style="float:right;width:150px;">
+<img src="images/2-audio-04.png" style="float:right;width:150px;">
 
 - With the receiver plugged in, open the **DJI Mimo** app on your iPhone. The first time you connect, allow any permission prompts and let the app finish a firmware update if one is offered.
 - Once the receiver is connected, a pop-up will appear saying "DJI Mic Mini detected." Tap **Go to Settings** to open the device page.
