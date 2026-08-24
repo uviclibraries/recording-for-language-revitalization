@@ -45,14 +45,41 @@ Turn off notifications on the recording device so a chime does not sneak into a 
 
 Step 5
 {: .label .label-step}
-Select all the letters and then click on the **Align Button**.
+- Open the charging case and take out the receiver (the small unit with the USB-C connector) and one transmitter (the tiny square unit with the DJI logo). If you are recording two people, take out both transmitters.
+- Plug the receiver into your laptop or phone. Most laptops have a USB-C port; if yours does not, use the USB-C to USB-A adapter from the kit or the Lightning adapter for older iPhones.
+- The transmitters and receiver pair automatically when you take them out of the case. A steady green light on the transmitter means it is connected and ready. A blinking light means it is still searching, so wait a few seconds or pop it back in the case and try again.
 {: .step}
 
 Step 6
 {: .label .label-step}
-1Then click on the black handle on the bottom left of the text to align the text along the bottom.
-    ![Image representation of alignment](images/tinkercad-keychain-05.png)
+- Now clip the transmitter onto the speaker. The best spot is on the chest, roughly 15 to 20 cm (a hand span) below the chin, centred or slightly off to one side. This picks up the voice clearly without catching breath sounds or plosive "p" and "b" pops.
+- Use the built-in clip on a shirt placket, collar, lapel, or the neckline of a sweater. Make sure the microphone opening (the small dotted grille) is facing up and outward, not pressed into fabric or hidden under a collar.
+- If there is nothing to clip to, such as a T-shirt or a dress, use the magnetic back plate. Put the magnet inside the clothing and the transmitter on the outside, and they will hold each other firmly in place.
 {: .step}
+
+Step 7
+{: .label .label-step}
+- Check for rubbing and rattling. Ask the speaker to move a bit, turn their head, and gesture as they normally would while talking. If a scarf, lanyard, necklace, long hair, or jacket zipper brushes the transmitter, you will hear scratchy noises in the recording. Tuck hair back, move the lanyard aside, or relocate the mic a few centimetres.
+- If you are recording outdoors, near an open window, or in a room with unavoidable air movement, slide the fuzzy windscreen over the transmitter before clipping it on. Indoors in a calm room you can usually leave it off.
+{: .step}
+
+Step 8
+{: .label .label-step}
+- If you are recording two people, clip the second transmitter on the second speaker the same way. Each transmitter records to its own channel, which makes it easy to separate the voices later.
+- Have both speakers sit facing each other or at a comfortable angle, about a metre apart. This keeps each mic focused on its own speaker and reduces "bleed" from the other voice.
+- Remind both speakers to avoid tapping the table, shuffling papers, or leaning on the transmitter while they talk.
+{: .step}
+
+Step 9
+{: .label .label-step}
+- Do a short test recording before the real thing. Open your recording app (for example Audacity, the Voice Memos app on a phone, or the recorder you plan to use for your language project), make sure the DJI Mic Mini is selected as the input device, and record 10 seconds of the speaker saying a few letters or words at their normal volume.
+- Play it back with headphones if you have them. You are listening for a clear, close voice, no echo, no hum, and no rustling. If something sounds off, go back to the relevant step above and adjust before you record the real session.
+- If the voice sounds too quiet or is distorting, the DJI transmitter has a small button that toggles noise cancelling and the receiver has a gain dial you can adjust. Ask your instructor if you are not sure which to change.
+{: .step}
+
+Congratulations! You now have a quiet, soft-sounding room and a properly placed microphone, which means the recordings you make for your game or language app will sound clear and professional.
+
+**A quick privacy and consent note**: always let the people you are recording know what the recordings will be used for, where they will be stored, and who will be able to hear them, and get their permission before you start. This is especially important when recording Elders and language speakers whose voices may be shared widely in a community app.
 
 <script>  
 
@@ -66,4 +93,4 @@ Step 6
     }
 </script>
 
-[NEXT STEP: CHANGE ME](2-change-me.html){: .btn .btn-blue }
+[NEXT STEP: Connect the DJI Mic Mini to Your Phone](2-connect-to-phone.html){: .btn .btn-blue }
