@@ -79,8 +79,14 @@ Step 9
 
 Congratulations! You now have a quiet, soft-sounding room and a properly placed microphone, which means the recordings you make for your game or language app will sound clear and professional.
 
-**A quick privacy and consent note**: always let the people you are recording know what the recordings will be used for, where they will be stored, and who will be able to hear them, and get their permission before you start. This is especially important when recording Elders and language speakers whose voices may be shared widely in a community app.
-
+## Working with community language keepers?
+Before publishing recordings of any Indigenous language please remember to:
+- Ask for permission to record
+- Confirm who the audio recordings can be shared with (e.g. community members only, public, researchers)
+- Confirm spellings
+- Confirm pronunciations
+- Keep the untrimmed originals archived so nothing is lost
+  
 <script>  
 
     function toggle(input) {
