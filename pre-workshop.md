@@ -6,7 +6,7 @@ nav_order: 2
 ## Pre-Workshop Videos & Activities
 This workshop is primarily hands-on practice with audio recording and editing on your smartphone for language revitalization tasks using DJI Mic Mini wireless microphones. To participate fully please do the following **before the workshop**:
 
-- [I Didn’t Realize My Audio Was This Bad… (**Watch 1st minute only**)](https://www.youtube.com/watch?v=SrUpKbhZtFk){:target="_blank"} (1 min)<br>
+- [I Didn’t Realize My Audio Was This Bad](https://www.youtube.com/watch?v=SrUpKbhZtFk){:target="_blank"} - **Watch 1st minute only** (1 min)<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SrUpKbhZtFk" title="I didn't realize my audio was this bad" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 - [How to Avoid Room Echo](https://www.youtube.com/watch?v=hrxtDjtKH4c){:target="_blank"} (1 min)<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hrxtDjtKH4c" title="How to Avoid Room Echo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
