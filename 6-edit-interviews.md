@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 6-Edit Interviews
+title: 5-Edit Interviews
 nav_order: 9
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
