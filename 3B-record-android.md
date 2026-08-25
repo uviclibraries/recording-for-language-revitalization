@@ -6,7 +6,7 @@ parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 # Record Short Audio Clips on your Android Phone
-<img src="images/2-connect-to-phone.jpg" style="float:right;width:350px;" alt="Decorative"> 
+<img src="images/3-record-logo.jpg" style="float:right;width:350px;" alt="Decorative">  
 
 ## What you need to have before you start:
 
