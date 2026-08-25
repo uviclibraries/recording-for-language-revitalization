@@ -71,4 +71,4 @@ Step 5
 
 **Note on headphone monitoring:** the Mic Mini receiver has no headphone jack, so you monitor visually with the Mimo meter, then confirm by ear with the playback test in Step 6. If you need live headphone monitoring for future projects, that feature is on DJI's Mic Mini kits.
 
-[NEXT STEP: Record Short Audio Clips](2-audo-record.html){: .btn .btn-blue }
+[NEXT STEP: Record Short Audio Clips](3A-record-ios.html){: .btn .btn-blue }
