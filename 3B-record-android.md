@@ -5,8 +5,8 @@ nav_order: 6
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
-# Record Short Audio Clips on your Android Phone
 <img src="images/3-record-logo.jpg" style="float:right;width:350px;" alt="Decorative">  
+# Record Short Audio Clips on your Android Phone
 
 ## What you need to have before you start:
 
