@@ -5,8 +5,8 @@ nav_order: 5
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
-# Record & Trim Short Audio Clips on your iPhone
 <img src="images/3-record-logo.jpg" style="float:right;width:350px;" alt="Decorative"> 
+# Record & Trim Short Audio Clips on your iPhone
 
 Let's record some short audio clips, just one word or letter sound per audio clip. 
 
