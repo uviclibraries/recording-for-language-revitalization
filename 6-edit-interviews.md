@@ -13,6 +13,3 @@ Step 1
 {: .label .label-step}
 - Interview Editing here? -OR- Link to Podcasting workshop activity?
 {: .step}
-
-![DJI Mic Mini charging case, open, with callouts on: 1 the transmitters, 2 the receiver, 3 the receiver status LED](images/2-audio-01.png) 
-{: .step}
