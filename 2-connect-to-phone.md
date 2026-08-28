@@ -69,6 +69,6 @@ Step 5
 - **Too hot vs. too quiet:** a slightly quiet recording can be boosted later with no harm, but a clipped (red-lined) recording is ruined and cannot be fixed. When in doubt, aim a little low.
 {: .step}
 
-**Note on headphone monitoring:** the Mic Mini receiver has no headphone jack, so you monitor visually with the Mimo meter, then confirm by ear with the playback test in Step 6. If you need live headphone monitoring for future projects, that feature is on DJI's Mic Mini kits.
+**Note on headphone monitoring:** the Mic Mini receiver has no headphone jack, so you monitor visually with the Mimo meter, then confirm by ear with the playback test. If you need live headphone monitoring for future projects, that feature is on the more expensive DJI's Mic 3 kit.
 
 [NEXT STEP: Record Short Audio Clips](3A-record-ios.html){: .btn .btn-blue }
