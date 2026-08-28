@@ -14,7 +14,7 @@ Let’s record some short audio clips, just one word or letter sound per audio c
 
 Step 1
 {: .label .label-step}
-<img src="images/3-android-qrcode.png" style="float:right;width:250px;" alt="QR Code">
+<img src="images/3-android-qrcode.png" style="float:right;width:250px;padding: 10px;" alt="QR Code">
 - Install the free [Voice Recorder app from the Google Play store](https://play.google.com/store/apps/details?id=com.media.bestrecorder.audiorecorder){:target="_blank"}. You can take a picture of the QR Code 
 {: .step}
 
