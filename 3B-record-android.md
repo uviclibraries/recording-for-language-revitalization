@@ -17,13 +17,13 @@ Step 1
 <img src="images/3-android-qrcode.png" style="float:right;width:250px;padding: 10px;" alt="QR Code">
 - Install the free [Voice Recorder app from the Google Play store](https://play.google.com/store/apps/details?id=com.media.bestrecorder.audiorecorder){:target="_blank"}.
 - You can take a picture of the QR Code to the right with your phone, and it will take you directly to the install page in the Google Play Store.
-- Launch the Voice Recorder app on your phone and follow the setup in structions. NOTE: If you are unsure about any of the setup questions the app is asking you, please ask your instructor for assistance.
+- Launch the **Voice Recorder** app on your phone and follow the setup in structions. NOTE: If you are unsure about any of the setup questions the app is asking you, please ask your instructor for assistance.
 {: .step}
 
 Step 2
 {: .label .label-step}
-- Leave the receiver plugged in and open the **Voice Memos** app. 
-- Tap the **red record button**, have the speaker say two or three letters, then tap stop.
+- The DJI Mic Mini receiver should still be plugged into your phone and open the wireless microphone should be attached to your shirt or shirt collar (from the previous activity). <img src="images/3-stop.jpg" style="float:right;width:250px;padding: 10px;" alt="Decorative">
+- Tap the **red record button**, have the speaker pronounce a letter or word then tap **stop**.
 - Play it back through headphones plugged into or paired with the **phone**, and listen for clear speech, no crackle or distortion on loud letters, and low room echo.
 - If anything sounds off, go back to **Mimo in Step 5** and adjust the gain before recording for real.
 - **Verify the right mic is in use:** gently scratch the transmitter capsule during your test. If you hear the scratch loudly on playback, the DJI mic is active. If tapping the phone itself is what comes through, the receiver is not connected properly, so unplug it and reseat it.
