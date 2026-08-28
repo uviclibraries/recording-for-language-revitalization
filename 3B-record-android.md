@@ -52,11 +52,11 @@ Step 5
 <img src="images/3-list.jpg" style="width:300px;">
 - Tap a recording, tap the **Clipper** icon on the top right of the screen.<br>
 <img src="images/3-clipper.jpg" style="width:300px;">
-<img src="images/3-trim.jpg" style="float:right;width:300px;">
-- Note the **green and red trim handles** which appear at each end of the waveform.
-- Drag the handles inward so a sliver of silence remains before and after the letter, then tap **Trim** to keep only the selected region, and tap **Save**.
-- Play it back once to confirm the letter is not cut off at the start.<br>
+- Note the **green and red trim handles** which appear at each end of the waveform.<br>
+<img src="images/3-trim.jpg" style="width:300px;">
+- Drag the handles inward so a sliver of silence remains before and after the letter, then tap the **Trim** button on the bottom left of the screento keep only the selected region, and tap **Save**.<br>
 <img src="images/3-save.jpg" style="width:300px;">
+- Play it back once to confirm the letter is not cut off at the start.<br>
 {: .step}
 
 Step 6
