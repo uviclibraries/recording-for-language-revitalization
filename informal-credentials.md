@@ -3,8 +3,8 @@ layout: default
 title: Earn a Workshop Badge
 nav_order: 9
 ---
+# COMING SOON!!!
 **UPDATE WITH WORKSHOP BADGE URL FROM BADGR.COM:** <img src="https://api.badgr.io/public/badges/VniblBxHTduaHgNkPtAVfQ/image" style="float:right;width:180px;"> 
-
 # Informal Credentials or Digital Badges
 
 The Digital Scholarship Commons (DSC) awards digital badges, or informal credentialing, for the successful completion of this workshop. We award badges as an informal credential in order to help workshop participants, who wish to, make public the fact that they have developed (qualitative coding skills using Taguette) **UPDATE**. 
