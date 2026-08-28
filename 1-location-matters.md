@@ -9,7 +9,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 
 # Choose a Great Recording Spot & Placement for Your Microphone 
 
-Good audio recordings start long before you press the record button. The room you choose and where you clip the microphone make a bigger difference to sound quality than almost anything else, and fortunately both are quick and easy to get right. This activity walks you through picking a quiet, "soft" recording space and attaching a DJI Mic Mini to the person you are recording so that the alphabet, word, and phrase recordings you make for your apps sound clear and consistent.
+Good audio recordings start long before you press the record button. The room you choose and where you clip the microphone make a bigger difference to sound quality than almost anything else, and fortunately both are quick and easy to get right. This activity walks you through picking a quiet, "soft" recording space for you to record your audio in.
 
 ## Part A: Selecting a Suitable Recording Location
 
@@ -31,13 +31,13 @@ Step 2
 Step 3
 {: .label .label-step}
 - Do the clap test. Stand where the speaker will sit, clap your hands once loudly, and listen. If you hear a sharp ring or a fluttering echo that lasts more than a moment, the room is too "live." If the clap sounds dull and dies away almost instantly, you have found a good spot.
-- If the room is echoey but you have no better option, improvise. Hang a blanket or two over chairs behind and beside the speaker, put a rug on the floor, throw some coats over the table, or move everyone into a corner near a bookshelf. Even a couple of pillows placed behind the laptop can help quite a bit. 
+- If the room is echoey but you have no better option, improvise. Hang a blanket or two over chairs behind and beside the speaker, put a rug on the floor, or throw some coats over the table. Even a couple of pillows placed behind the laptop can help quite a bit. 
 {: .step}
 
 Step 4
 {: .label .label-step}
 - Set up the speaker's chair and your recording device. Have the speaker sit facing into the room (toward soft surfaces), not facing a window or a bare wall. Keep them about a metre away from any wall so their voice does not bounce straight back into the mic.
-- Place your laptop or phone within easy reach but keep it a little distance from the speaker, since the DJI receiver will be plugged into it and you want the device's own fan noise well away from the microphone.
+- Place your laptop or phone within easy reach but keep it a little distance from the speaker.
 - Turn off notifications on the recording device so a chime does not sneak into a take. On a laptop, closing email and chat apps for the session is the simplest way to do this. 
 {: .step}
 
