@@ -47,11 +47,12 @@ Step 4
 
 Step 5
 {: .label .label-step}
-<img src="images/3-list.jpg" style="float:right;width:300px;">
 - A soundboard feels snappy when audio starts almost instantly after a tap. Trimming each memo to leave only about a quarter-second of silence before the letter makes a big difference.
 - Click on **Headphones icon** on the bottom left of the app which will bring up a list of the audio files you've recorded.<br>
+<img src="images/3-list.jpg" style="width:300px;">
+- Tap a recording, tap the **Clipper** icon on the top right of the screen.<br>
 <img src="images/3-clipper.jpg" style="width:300px;">
-- Tap a recording, tap the **Clipper** icon on the top right of the screen.<img src="images/3-trim.jpg" style="float:right;width:300px;">
+<img src="images/3-trim.jpg" style="float:right;width:300px;">
 - Note the **green and red trim handles** which appear at each end of the waveform.
 - Drag the handles inward so a sliver of silence remains before and after the letter, then tap **Trim** to keep only the selected region, and tap **Save**.
 - Play it back once to confirm the letter is not cut off at the start.<br>
