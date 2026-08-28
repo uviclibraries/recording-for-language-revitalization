@@ -17,10 +17,10 @@ Step 1
 {: .label .label-step}
 - Start by listening. Stand in the room you are considering, close your eyes, and stay quiet for 30 seconds. Notice every sound: fans, fridges, ventilation, traffic, hallway chatter, and hum from lights or computers. Anything you can hear now, your microphone will hear even more clearly.
 - If you can, turn off or unplug the noisy things you have control over: ceiling fans, space heaters, air purifiers, desk fans, and noisy laptops. Close windows and doors.
-- Ask anyone nearby to keep the volume down for the next while, and put a "Recording in progress, please knock quietly" note on the door if you have one handy.
-<img src="images/CHANGE.png" style="float:right;width:200px" alt="drop down menu with basic shapes, text and numbers."> 
+- Ask anyone nearby to keep the volume down for the next while, and put a "Recording in progress, please knock quietly" note on the door if you have one handy. 
 {: .step}
 
+<img src="images/1-soft-surfaces.jpg" style="float:right;width:300px" alt="Decorative">
 Step 2
 {: .label .label-step}
 - Look at the surfaces in the room. Hard, flat surfaces like bare walls, windows, tile floors, and long tables bounce sound back at the microphone and create an echoey, "bathroom" sound. Soft surfaces absorb sound and make voices sound warm and close.
