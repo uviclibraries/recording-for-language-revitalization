@@ -20,9 +20,9 @@ Step 1
 - Ask anyone nearby to keep the volume down for the next while, and put a "Recording in progress, please knock quietly" note on the door if you have one handy. 
 {: .step}
 
-<img src="images/1-soft-surfaces.jpg" style="float:right;width:300px" alt="Decorative">
 Step 2
 {: .label .label-step}
+<img src="images/1-soft-surfaces.jpg" style="float:right;width:300px" alt="Decorative">
 - Look at the surfaces in the room. Hard, flat surfaces like bare walls, windows, tile floors, and long tables bounce sound back at the microphone and create an echoey, "bathroom" sound. Soft surfaces absorb sound and make voices sound warm and close.
 - Ideal rooms have carpet or rugs, curtains, upholstered furniture, bookshelves full of books, cushions, coats on hooks, or fabric wall hangings. A small carpeted office, a living room with a couch and curtains, or even a walk-in closet full of clothes will sound far better than a large empty meeting room with a whiteboard.
 - Smaller rooms are usually better than larger ones, as long as they are not so small that you feel cramped. High ceilings and big empty spaces tend to echo. 
