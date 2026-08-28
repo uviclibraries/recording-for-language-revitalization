@@ -61,13 +61,8 @@ Step 5
 
 Step 6
 {: .label .label-step}
-
-- In the memo list, tap a recording, tap the **three-dot menu (...)**, then tap **Share**. To move several at once, tap **Edit** in the list, select multiple memos, then share them together.
-- Choose **AirDrop** to send straight to a Mac, or **Save to Files** and then upload from iCloud Drive or Google Drive on any computer.
-- Voice Memos exports **.m4a** files, so a memo named `a` arrives as `a.m4a`.
-- Modern browsers play m4a just fine, so the simplest path is to tell your soundboard prompt that the files are named wich `.m4a` extensions.
-
-![DJI Mic Mini charging case, open, with callouts on: 1 the transmitters, 2 the receiver, 3 the receiver status LED](images/2-audio-01.png) 
+- In the Voice Recorder app list, tap a recording, tap the **Share Icon** on the top right of the screen, then tap the **Google Drive** icon.
+- Select the location in your Google Drive where you'd like to save the file, and then press the **Upload** button on the top right of the screen.
 {: .step}
 
 ## Quick troubleshooting
@@ -83,5 +78,4 @@ Step 6
 
 Congratulations on recording a full set of alphabet audio files! With a folder of named, trimmed letter files, you are ready to build or update a soundboard. Just mention the file extension you ended up with (.m4a or .mp3) in your prompt so the generated code matches your filenames.
 
-![DJI Mic Mini charging case, open, with callouts on: 1 the transmitters, 2 the receiver, 3 the receiver status LED](images/2-audio-01.png) 
-{: .step}
+[NEXT STEP: Interviewing Tips](5-interview-tips.html){: .btn .btn-blue }
