@@ -13,3 +13,5 @@ Step 1
 {: .label .label-step}
 - Interview Editing here? -OR- Link to Podcasting workshop activity?
 {: .step}
+
+[NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }
