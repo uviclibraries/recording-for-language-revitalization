@@ -29,27 +29,21 @@ Step 2
 - **Verify the right mic is in use:** gently scratch the transmitter capsule during your test. If you hear the scratch loudly on playback, the DJI mic is active. If tapping the phone itself is what comes through, the receiver is not connected properly, so unplug it and reseat it.
 {: .step}
 
-
 Step 3
 {: .label .label-step}
-- Record each letter as its **own memo** so you don't have to split one long file later. For each letter, follow the same rhythm: **start recording, wait about half a second, say the letter, wait another half second, then tap the square stop button**. <img src="images/3-stop.jpg" style="float:right;width:250px;padding: 10px;" alt="Decorative">
+<img src="images/3-stop.jpg" style="float:right;width:250px;padding: 10px;" alt="Decorative">
+- Record each letter as its **own recording** so you don't have to split one long file later. For each letter, follow the same rhythm: **start recording, wait about half a second, say the letter, wait another half second, then tap the square stop button**. 
+- Type the letter as the new name, using **lowercase** to match the filenames your soundboard expects, for example `a`, `b`, `c`.
+- For letters with diacritics or glottal stops, use a plain-text name that matches your app's file mapping, for example `c_glottal` rather than `c'`, since apostrophes cause trouble in filenames and URLs. This matches the glottal stop prompt in the [Alphabet Soundboard activity](https://uviclibraries.github.io/genai-vibe-code-intro/1-soundboard.html){:target="_blank"}.
+{: .step}
+
+Step 4
+{: .label .label-step}
 - Work through the alphabet **in order** from your printed list, ticking off each letter as you go, so nothing gets missed and the memo list matches the alphabet.
 - If a take is flubbed, don't agonize over it—just stop, delete or ignore it, and record the letter again.
 - Keep the speaker's **volume and distance identical** for every letter, and resist leaning in for quiet letters.
 - For letters with glottal stops or other sounds that are easy to under-articulate, consider recording **two takes** so a language keeper can choose the better one later. The short, quiet sections before and after each letter also give you room to trim cleanly later in this activity.
 {: .step}
-
-
-Step 4
-{: .label .label-step}
-
-- In the Voice Memos list, **tap a recording** to expand it, then **tap its title** ("New Recording 7") to make it editable.
-- Type the letter as the new name, using **lowercase** to match the filenames your soundboard expects, for example `a`, `b`, `c`.
-- For letters with diacritics or glottal stops, use a plain-text name that matches your app's file mapping, for example `c_glottal` rather than `c'`, since apostrophes cause trouble in filenames and URLs. This matches the glottal stop prompt in Step 7 of the [Alphabet Soundboard activity](https://uviclibraries.github.io/genai-vibe-code-intro/1-soundboard.html){:target="_blank"}.
-- Give each recording a descriptive name **immediately after each recording session**, while you can still match memos to letters by order and by ear.
-{: .step}
-
-![Renaming a memo in Voice Memos](images/3-audio-10.gif)
 
 Step 5
 {: .label .label-step}
