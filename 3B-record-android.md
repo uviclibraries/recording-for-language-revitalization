@@ -22,7 +22,7 @@ Step 1
 
 Step 2
 {: .label .label-step}
-- The DJI Mic Mini receiver should still be plugged into your phone and open the wireless microphone should be attached to your shirt or shirt collar (from the previous activity). <img src="images/3-stop.jpg" style="float:right;width:250px;padding: 10px;" alt="Decorative">
+- The DJI Mic Mini receiver should still be plugged into your phone and open the wireless microphone should be attached to your shirt or shirt collar (from the previous activity). <img src="images/3-start.jpg" style="float:right;width:250px;padding: 10px;" alt="Decorative">
 - Tap the **red record button**, have the speaker pronounce a letter or word then tap **stop**.
 - Play it back through headphones plugged into or paired with the **phone**, and listen for clear speech, no crackle or distortion on loud letters, and low room echo.
 - If anything sounds off, go back to **Mimo in Step 5** and adjust the gain before recording for real.
@@ -32,7 +32,7 @@ Step 2
 
 Step 3
 {: .label .label-step}
-- Record each letter as its **own memo** so you don't have to split one long file later. For each letter, follow the same rhythm: **start recording, wait about half a second, say the letter, wait another half second, then tap the square stop button**. The waveform should show **one clear burst** (the letter) with flat, quiet sections on either side. <img src="images/3-audio-07.jpg" style="float:right;width:300px;">
+- Record each letter as its **own memo** so you don't have to split one long file later. For each letter, follow the same rhythm: **start recording, wait about half a second, say the letter, wait another half second, then tap the square stop button**. The waveform should show **one clear burst** (the letter) with flat, quiet sections on either side. <img src="images/3-stop.jpg" style="float:right;width:250px;padding: 10px;" alt="Decorative">
 - Work through the alphabet **in order** from your printed list, ticking off each letter as you go, so nothing gets missed and the memo list matches the alphabet.
 - If a take is flubbed, don't agonize over it—just stop, delete or ignore it, and record the letter again.
 - Keep the speaker's **volume and distance identical** for every letter, and resist leaning in for quiet letters.
