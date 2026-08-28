@@ -61,6 +61,7 @@ Step 5
 
 Step 6
 {: .label .label-step}
+<img src="images/3-share.jpg" style="float:right;width:300px;">
 - In the Voice Recorder app list, tap a recording, tap the **Share Icon** on the top right of the screen, then tap the **Google Drive** icon.
 - Select the location in your Google Drive where you'd like to save the file, and then press the **Upload** button on the top right of the screen.
 {: .step}
