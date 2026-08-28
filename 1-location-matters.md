@@ -7,7 +7,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 <img src="images/01-location-logo.jpg" style="float:right;width:250px;height:250px;" alt="Decorative"> 
 
-# Choose a Great Recording Spot & Placement for Your Microphone 
+# Choose a Great Recording Spot 
 
 Good audio recordings start long before you press the record button. The room you choose and where you clip the microphone make a bigger difference to sound quality than almost anything else, and fortunately both are quick and easy to get right. This activity walks you through picking a quiet, "soft" recording space for you to record your audio in.
 
