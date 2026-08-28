@@ -75,4 +75,4 @@ Step 5
 
 Congratulations on recording a full set of alphabet audio files! With a folder of named, trimmed letter files, you are ready to build or update a soundboard. Just mention the file extension you ended up with (.m4a or .mp3) in your prompt so the generated code matches your filenames.
 
-[NEXT STEP: ???](#){: .btn .btn-blue }
+[NEXT STEP: Interviewing Tips](5-interview-tips.html){: .btn .btn-blue }
