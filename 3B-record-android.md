@@ -25,18 +25,18 @@ Step 2
 - The DJI Mic Mini receiver should still be plugged into your phone and open the wireless microphone should be attached to your shirt or shirt collar (from the previous activity). <img src="images/3-start.jpg" style="float:right;width:250px;padding: 10px;" alt="Decorative">
 - Tap the **red record button**, have the speaker pronounce a letter or word then tap **stop**.
 - Play it back through headphones plugged into or paired with the **phone**, and listen for clear speech, no crackle or distortion on loud letters, and low room echo.
-- If anything sounds off, go back to **Mimo in Step 5** and adjust the gain before recording for real.
+- If anything sounds off, go back to **Mimo app** and adjust the gain before recording for real.
 - **Verify the right mic is in use:** gently scratch the transmitter capsule during your test. If you hear the scratch loudly on playback, the DJI mic is active. If tapping the phone itself is what comes through, the receiver is not connected properly, so unplug it and reseat it.
 {: .step}
 
 
 Step 3
 {: .label .label-step}
-- Record each letter as its **own memo** so you don't have to split one long file later. For each letter, follow the same rhythm: **start recording, wait about half a second, say the letter, wait another half second, then tap the square stop button**. The waveform should show **one clear burst** (the letter) with flat, quiet sections on either side. <img src="images/3-stop.jpg" style="float:right;width:250px;padding: 10px;" alt="Decorative">
+- Record each letter as its **own memo** so you don't have to split one long file later. For each letter, follow the same rhythm: **start recording, wait about half a second, say the letter, wait another half second, then tap the square stop button**. <img src="images/3-stop.jpg" style="float:right;width:250px;padding: 10px;" alt="Decorative">
 - Work through the alphabet **in order** from your printed list, ticking off each letter as you go, so nothing gets missed and the memo list matches the alphabet.
 - If a take is flubbed, don't agonize over it—just stop, delete or ignore it, and record the letter again.
 - Keep the speaker's **volume and distance identical** for every letter, and resist leaning in for quiet letters.
-- For letters with glottal stops or other sounds that are easy to under-articulate, consider recording **two takes** so a language keeper can choose the better one later. The short, quiet sections before and after each letter also give you room to trim cleanly in Step 9.
+- For letters with glottal stops or other sounds that are easy to under-articulate, consider recording **two takes** so a language keeper can choose the better one later. The short, quiet sections before and after each letter also give you room to trim cleanly later in this activity.
 {: .step}
 
 
