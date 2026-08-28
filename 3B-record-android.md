@@ -5,7 +5,7 @@ nav_order: 6
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
-<img src="images/3b-record-android.jpg" style="float:right;width:350px;" alt="Decorative">  
+<img src="images/3b-record-android.jpg" style="float:right;width:250px;" alt="Decorative">  
 # Record Short Audio Clips on your Android Phone
 
 Let’s record some short audio clips, just one word or letter sound per audio clip.
@@ -14,7 +14,7 @@ Let’s record some short audio clips, just one word or letter sound per audio c
 
 Step 1
 {: .label .label-step}
-<img src="images/3-android-qrcode.png" style="float:right;width:300px;" alt="QR Code">
+<img src="images/3-android-qrcode.png" style="float:right;width:250px;" alt="QR Code">
 - Install the free [Voice Recorder app from the Google Play store](https://play.google.com/store/apps/details?id=com.media.bestrecorder.audiorecorder){:target="_blank"}. You can take a picture of the QR Code 
 {: .step}
 
