@@ -5,16 +5,29 @@ nav_order: 8
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
-#  UNDER CONSTRUCTION
 <img src="images/2-connect-to-phone.jpg" style="float:right;width:350px;" alt="Decorative"> 
-# Interviewing Tips
+# Step-by-Step Practical Tips for Audio Recording an Interview with an Elder
 
-## What you need to have before you start:
-
-Step 1
+Pre-Interview and Environment
 {: .label .label-step}
-- Interviewing tips here...
+* **Pick a soft, quiet room.** Choose a space with carpets, curtains, and upholstered furniture to absorb room echo, rather than kitchens or dining areas with hard, reflective surfaces.
+* **Eliminate subtle background noise.** Turn off television sets, air conditioners, fans, and chiming clocks, as low hums prove difficult to remove cleanly in post-production without degrading voice timbre.
+* **Keep sessions under 45 to 60 minutes.** Energy and vocal clarity decline quickly; scheduling two or three shorter conversations produces far better material than a single marathon session.
 {: .step}
 
+Equipment and Setup
+{: .label .label-step}
+* **Use a dedicated, close-proximity microphone.** Clip a wireless or wired lavalier mic about 15 to 20 cm (6 to 8 inches) below their chin, or place an external directional microphone close enough so you do not have to drive input gain excessively high.
+* **Set up a secondary backup recorder.** Run a voice memo app on a smartphone placed on a soft cloth or coaster nearby as a fail-safe against corrupted files or dead batteries.
+* **Keep gear visually unobtrusive.** Large boom arms, shock mounts, and heavy headphones can feel intimidating or clinical, so tuck receivers and wires out of sight to keep the atmosphere conversational.
+{: .step}
+
+During the Conversation
+{: .label .label-step}
+* **Practice silent active listening.** Nod, maintain eye contact, and use facial expressions instead of verbal interjections like "uh-huh" or "yeah," which bleed over their audio and ruin potential soundbites.
+* **Embrace deliberate pauses.** Allow 3 to 5 seconds of silence after they appear to finish a thought, as older adults often use that quiet space to retrieve deeper, more detailed memories.
+* **Have water within easy reach.** Dry mouth and vocal fatigue occur rapidly; offering room-temperature water keeps speech clear and reduces mouth clicks.
+* **Anchor memories with physical prompts.** Bring family photographs, letters, or familiar keepsakes to ground abstract questions in concrete sensory details and stories.
+{: .step}
 
 [NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }
