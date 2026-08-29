@@ -5,8 +5,9 @@ nav_order: 8
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
-<img src="images/4-interview.jpg" style="float:right;width:400px;" alt="Decorative"> 
+ 
 # Step-by-Step Practical Tips for Audio Recording an Interview with an Elder
+<img src="images/4-interview.jpg" style="float:right;width:400px;" alt="Decorative">
 
 1 - Pre-Interview and Environment
 {: .label .label-step}
