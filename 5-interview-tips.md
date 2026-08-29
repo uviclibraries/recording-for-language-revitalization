@@ -5,7 +5,7 @@ nav_order: 8
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
-<img src="images/2-connect-to-phone.jpg" style="float:right;width:350px;" alt="Decorative"> 
+<img src="images/4-interview.jpg" style="float:right;width:400px;" alt="Decorative"> 
 # Step-by-Step Practical Tips for Audio Recording an Interview with an Elder
 
 1 - Pre-Interview and Environment
@@ -16,7 +16,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 {: .step}
 
 2 - Equipment and Setup
-{: .label .label-step}
+{: .label .label-step} 
 * **Set up a secondary backup recorder.** Run a voice memo app on a second smartphone placed on a soft cloth or coaster nearby as a fail-safe against corrupted files or dead batteries.
 * **Keep gear visually unobtrusive.** Large microphones and heavy headphones can feel intimidating or clinical, so tuck receivers and wires out of sight to keep the atmosphere conversational.
 {: .step}
