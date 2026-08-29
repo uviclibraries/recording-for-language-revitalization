@@ -17,9 +17,8 @@ Pre-Interview and Environment
 
 Equipment and Setup
 {: .label .label-step}
-* **Use a dedicated, close-proximity microphone.** Clip a wireless or wired lavalier mic about 15 to 20 cm (6 to 8 inches) below their chin, or place an external directional microphone close enough so you do not have to drive input gain excessively high.
-* **Set up a secondary backup recorder.** Run a voice memo app on a smartphone placed on a soft cloth or coaster nearby as a fail-safe against corrupted files or dead batteries.
-* **Keep gear visually unobtrusive.** Large boom arms, shock mounts, and heavy headphones can feel intimidating or clinical, so tuck receivers and wires out of sight to keep the atmosphere conversational.
+* **Set up a secondary backup recorder.** Run a voice memo app on a second smartphone placed on a soft cloth or coaster nearby as a fail-safe against corrupted files or dead batteries.
+* **Keep gear visually unobtrusive.** Large microphones and heavy headphones can feel intimidating or clinical, so tuck receivers and wires out of sight to keep the atmosphere conversational.
 {: .step}
 
 During the Conversation
