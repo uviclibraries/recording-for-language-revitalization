@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Activities Introduction
+title: Self-Directed Introduction
 nav_order: 3
 ---
-# Hands-On Activities Introduction
+# Self-Directed Workshop Introduction
 
-- Please review the following [Introductory Slides](#){:target="_blank"} **COMING SOON** -OR- The [Workshop Introduction Video](#){:target="_blank"} **COMING SOON**
+- Please review the following [Introductory Slides](#){:target="_blank"} **COMING SOON**
 - Resize Your Laptop Screen for Workshop Handouts (2 min)<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Igk5hZUfzN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
