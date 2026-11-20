@@ -3,7 +3,7 @@ layout: default
 title: Self-Directed Introduction
 nav_order: 3
 ---
-# Self-Directed Workshop Introduction
+# Introduction for Self-Directed Learners
 
 - Please review the following [Introductory Slides](#){:target="_blank"} **COMING SOON**
 - Resize Your Laptop Screen for Workshop Handouts (2 min)<br>
